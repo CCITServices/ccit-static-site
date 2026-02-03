@@ -16,4 +16,4 @@ The Contact section uses a Microsoft Form embedded via iframe.
 ## 🔗 Hosting
 Hosted on Azure Static Web Apps (Free Tier).
 
-for enquiries 
+for enquiries please contact
